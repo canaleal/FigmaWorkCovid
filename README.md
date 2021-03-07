@@ -2,8 +2,8 @@
 This Repository contains the Covid-19 UI Figma File for Assignment 2. A video showcasing the UI is also included. 
 
 # Versions
-V1:
-V2:
+<p>V1:  </p>
+<p>V2:  </p>
 
 # About
 
