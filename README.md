@@ -8,7 +8,8 @@ V2:
 # About
 
 # Features
-<ul>Simple UI
+<ul>
+  <li>Simple UI</li>
   <li>Login and Register System</li>
 <li>COVID-19 Statistics in Country/State/City/Town</li>
 <li>COVID-19 Testing centers/ Hospitals near you</li>
