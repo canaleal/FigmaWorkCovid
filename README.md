@@ -58,3 +58,8 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 <p>More Features coming soon.</p>
 
 # Screens
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Login_Master.JPG)
+<p>Login Page</p>
+
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Home_Master.JPG)
+<p>Home Page</p>
