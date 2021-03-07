@@ -6,6 +6,9 @@ This Repository contains the Covid-19 UI Figma File for Assignment 2. A video sh
 <p>V2:  </p>
 
 # About
+<p>The Work Covid app lets users view Covid-19 data, request help, and view documentation. Users will first need to register and then use the app.</p>
+<p>After loging in, users can then view Covid data, recieve tips, read up on the FAQs, and even perform a self check.</p>
+<p>Contacting a volunteer is done using the built in Call/Text/Video call system. The top Volunteers are shown in a seperate menu and can be selected.</p>
 
 # Features
 <ul>
