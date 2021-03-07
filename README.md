@@ -8,18 +8,19 @@ V2:
 # About
 
 # Features
-<ul>Simple UI</ul>
-Login and Register System
-COVID-19 Statistics in Country/State/City/Town
-COVID-19 Testing centers/ Hospitals near you
-Self Checkup
+<ul>Simple UI
+  <li>Login and Register System</li>
+<li>COVID-19 Statistics in Country/State/City/Town</li>
+<li>COVID-19 Testing centers/ Hospitals near you</li>
+<li>Self Checkup</li>
 
-Call Volunteers
-Text Volunteers
-Video Call Volunteers
-Request Help and make Appointments
-Provide Volunteer Help
-Find Volunteer Postings 
+<li>Call Volunteers</li>
+<li>Text Volunteers</li>
+<li>Video Call Volunteers</li>
+<li>Request Help and make Appointments</li>
+<li>Provide Volunteer Help</li>
+<li>Find Volunteer Postings </li>
 
-Get Alerts and Notifications
-Covid-19 Tips
+<li>Get Alerts and Notifications</li>
+<li>Covid-19 Tips</li>
+</ul>
