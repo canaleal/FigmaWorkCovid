@@ -14,6 +14,7 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 <p>The 2nd Covid app is for Volunteers that want to help their communities. Volunteers can Call, Text, and Video Call users and even accept Help Requests like getting pills. For management, Volunteers can track their appointments and click complete when finished. Volunteers can also view their recent calls with users in the Recents menu.</p>
 
 # Features
+<p>User App</p>
 <ul>
   <li>Simple UI</li>
   <li>Login and Register System</li>
@@ -31,3 +32,19 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 <li>Get Alerts and Notifications</li>
 <li>Covid-19 Tips</li>
 </ul>
+<br>
+<p>Volunteer App</p>
+<ul>
+  <li>Simple UI</li>
+  <li>Login and Register System</li>
+  <li>Manage Recent calls</li>
+  <li>Manage Appointments</li>
+  <li>View FAQs</li>
+  <li>Accept Requests</li>
+  <li>Call Users</li>
+  <li>Text Users</li>
+  <li>Video Call Users</li>
+  <li>Manage Account</li>
+</ul
+  
+#Screenshots
