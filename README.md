@@ -69,3 +69,6 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 
 ![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Stats_1_Master.JPG)
 <p>Stats Map Page</p>
+
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Check_Master.JPG)
+<p>Self Check Page</p>
