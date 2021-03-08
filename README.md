@@ -23,7 +23,7 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 </ul>
 
 # Features
-<p>User App</p>
+<h5>User App</h5>
 <ul>
   <li>Simple UI</li>
   <li>Login and Register System</li>
@@ -101,3 +101,11 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 
 ![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/FAQ_Master.JPG)
 <p>FAQ Page</p>
+
+<h5>Volunteer App</h5>
+
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Home_Vol.JPG)
+<p>Home Page</p>
+
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Recent_Vol.JPG)
+<p>Recent Page</p>
