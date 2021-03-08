@@ -94,4 +94,4 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 <p>Account Page</p>
 
 ![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Account_1_Master.JPG)
-<p>Account Page</p>
+<p>Advance Account Page</p>
