@@ -114,5 +114,5 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 <p>Appointment Page</p>
 
 ![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Appointment_1_Vol.JPG)
-<p>Appointment Page</p>
+<p>Appointment Request Page</p>
 
