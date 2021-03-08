@@ -109,3 +109,7 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 
 ![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Recent_Vol.JPG)
 <p>Recent Page</p>
+
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Appointment_Vol.JPG)
+<p>Appointment Page</p>
+
