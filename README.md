@@ -60,65 +60,6 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 # Screens
 <p>Sreens for the User Appliction</p>
 
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Login_Master.JPG)
-<p>Login Page</p>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Login.JPG)
 
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Home_Master.JPG)
-<p>Home Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Stats_Master.JPG)
-<p>Stats Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Stats_1_Master.JPG)
-<p>Stats Map Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Check_Master.JPG)
-<p>Self Check Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Chat_Master.JPG)
-<p>Contact Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Request_Master.JPG)
-<p>Request Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Text_Master.JPG)
-<p>Text Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Talk_Master.JPG)
-<p>Talk Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Video_Master.JPG)
-<p>Video Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Account_Master.JPG)
-<p>Account Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Account_1_Master.JPG)
-<p>Advance Account Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Tips_Master.JPG)
-<p>Tips Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/FAQ_Master.JPG)
-<p>FAQ Page</p>
-
-<h5>Volunteer App</h5>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Home_Vol.JPG)
-<p>Home Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Recent_Vol.JPG)
-<p>Recent Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Appointment_Vol.JPG)
-<p>Appointment Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Appointment_1_Vol.JPG)
-<p>Appointment Request Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Request_Vol.JPG)
-<p>Request Page</p>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Request_1_Vol.JPG)
-<p>Accept Request Page</p>
 
