@@ -60,6 +60,6 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 # Screens
 <p>Sreens for the User Appliction</p>
 
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/Login.JPG)
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/1.JPG)
 
 
