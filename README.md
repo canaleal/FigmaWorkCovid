@@ -52,8 +52,8 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 </ul
 <p>More Features coming soon.</p>
 
-# Screens
-<p>Sreens for the User Appliction</p>
+# Sample Screenshots
+<p>To view all screenshots, click on the CovidMaster PDF</p>
 
 ![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/1.JPG)
 <br>
