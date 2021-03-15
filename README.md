@@ -4,7 +4,6 @@ This Repository contains both Covid-19 UI Figma File for Assignment 2. A video s
 # Versions
 <p>V1: https://www.figma.com/proto/I8oNSFSMr1Iu2xx7QiqEni/Covid-19-App?node-id=15%3A60&scaling=scale-down </p>
 <p>V2 User: https://www.figma.com/proto/Xx6TnL0u0jUgxEt5Q0oB4W/CovidMaster?node-id=1%3A2&viewport=543%2C-87%2C0.11603465676307678&frame-preset-name=Google%20Pixel%202%20XL&scaling=scale-down</p>
-<p>V2 Volunteer:  https://www.figma.com/proto/UT1i5IoFCkB3gR74BvqDb7/CovidVolunteer?node-id=1%3A2682&viewport=-1186%2C-4504%2C0.48661625385284424&scaling=scale-down</p>
 
 # About
 <p>The 1st Covid app lets users view Covid-19 data, request help, and view documentation. Users will first need to register and then use the app.
@@ -77,55 +76,3 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 ![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/10.JPG)
 <br>
 
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/11.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/12.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/13.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/14.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/15.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/16.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/17.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/18.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/19.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/20.JPG)
-<br>
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/21.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/22.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/23.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/24.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/25.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/26.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/27.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/28.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/29.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/30.JPG)
-<br>
-
-
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/31.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/32.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/33.JPG)
-<br>
-![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/34.JPG)
-<br>
