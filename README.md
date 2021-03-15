@@ -79,3 +79,57 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 ![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/9.JPG)
 <br>
 ![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/10.JPG)
+<br>
+
+
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/11.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/12.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/13.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/14.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/15.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/16.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/17.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/18.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/19.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/20.JPG)
+<br>
+
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/21.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/22.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/23.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/24.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/25.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/26.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/27.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/28.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/29.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/30.JPG)
+<br>
+
+
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/31.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/32.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/33.JPG)
+<br>
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/34.JPG)
+<br>
