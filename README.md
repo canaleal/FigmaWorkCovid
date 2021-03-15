@@ -5,6 +5,9 @@ This Repository contains both Covid-19 UI Figma File for Assignment 2. A video s
 <p>V1: https://www.figma.com/proto/I8oNSFSMr1Iu2xx7QiqEni/Covid-19-App?node-id=15%3A60&scaling=scale-down </p>
 <p>V2 User: https://www.figma.com/proto/Xx6TnL0u0jUgxEt5Q0oB4W/CovidMaster?node-id=1%3A2&viewport=543%2C-87%2C0.11603465676307678&frame-preset-name=Google%20Pixel%202%20XL&scaling=scale-down</p>
 
+# Video
+XXYYYZZ
+
 # About
 <p>The 1st Covid app lets users view Covid-19 data, request help, and view documentation. Users will first need to register and then use the app.
 After loging in, users can then view Covid data, recieve tips, read up on the FAQs, and even perform a self check.
@@ -22,7 +25,6 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 </ul>
 
 # Features
-<h5>User App</h5>
 <ul>
   <li>Simple UI</li>
   <li>Login and Register System</li>
