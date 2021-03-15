@@ -42,7 +42,6 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 <li>Covid-19 Tips</li>
 </ul>
 <br>
-<p>Volunteer App</p>
 <ul>
   <li>Simple UI</li>
   <li>Login and Register System</li>
