@@ -26,19 +26,17 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 <ul>
   <li>Simple UI</li>
   <li>Login and Register System</li>
-<li>COVID-19 Statistics in Country/State/City/Town</li>
-<li>COVID-19 Testing centers/ Hospitals near you</li>
-<li>Self Checkup</li>
-
-<li>Call Volunteers</li>
-<li>Text Volunteers</li>
-<li>Video Call Volunteers</li>
-<li>Request Help and make Appointments</li>
-<li>Provide Volunteer Help</li>
-<li>Find Volunteer Postings </li>
-
-<li>Get Alerts and Notifications</li>
-<li>Covid-19 Tips</li>
+  <li>COVID-19 Statistics in Country/State/City/Town</li>
+  <li>COVID-19 Testing centers/ Hospitals near you</li>
+  <li>Self Checkup</li>
+  <li>Call Volunteers</li>
+  <li>Text Volunteers</li>
+  <li>Video Call Volunteers</li>
+  <li>Request Help and make Appointments</li>
+  <li>Provide Volunteer Help</li>
+  <li>Find Volunteer Postings </li>
+  <li>Get Alerts and Notifications</li>
+  <li>Covid-19 Tips</li>
   <li>Simple UI</li>
   <li>Login and Register System</li>
   <li>Manage Recent calls</li>
@@ -49,7 +47,8 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
   <li>Text Users</li>
   <li>Video Call Users</li>
   <li>Manage Account</li>
-</ul
+</ul>
+
 <p>More Features coming soon.</p>
 
 # Sample Screenshots
