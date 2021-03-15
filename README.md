@@ -61,5 +61,12 @@ Contacting a volunteer is done using the built in Call/Text/Video call system. T
 <p>Sreens for the User Appliction</p>
 
 ![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/1.JPG)
-
-
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/2.JPG)
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/3.JPG)
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/4.JPG)
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/5.JPG)
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/6.JPG)
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/7.JPG)
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/8.JPG)
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/9.JPG)
+![alt text](https://github.com/canaleal/FigmaWorkCovid/blob/main/Img/10.JPG)
