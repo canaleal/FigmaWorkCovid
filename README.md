@@ -6,6 +6,8 @@ This Repository contains both Covid-19 UI Figma File for Assignment 2. A video s
 <br>
 <p>V2: https://www.figma.com/proto/Xx6TnL0u0jUgxEt5Q0oB4W/CovidMaster?node-id=1%3A2&viewport=543%2C-87%2C0.11603465676307678&frame-preset-name=Google%20Pixel%202%20XL&scaling=scale-down</p>
 
+<p>Final Version: https://www.figma.com/file/BQS15IwK3U8ZEw7P5abxWR/FINAL_VERSION?node-id=0%3A1</p>
+
 # Video
 https://youtu.be/T6DD4fR3lCs
 
